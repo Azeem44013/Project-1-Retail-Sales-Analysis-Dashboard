@@ -95,6 +95,6 @@ This project demonstrates a workflow combining SQL analysis and Power BI visuali
 
 ## 👤 Author
 
-**Your Name**
+**Mohamed Azeem**
 
-🔗 Add your GitHub profile or portfolio link here.
+🔗 https://github.com/Azeem44013
